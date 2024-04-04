@@ -57,9 +57,8 @@ int main()
 
 
 ## OUTPUT
-![image](https://github.com/shoaib3136/Linux-IPC-Shared-memory/assets/117919362/ac0397ab-3655-4412-bb13-5f95166de416)
 
-
+![img6](https://github.com/Gchethankumar/Linux-IPC-Shared-memory/assets/118348224/f3ecf30b-9868-414b-a345-df58d3809e33)
 
 
 # RESULT:
